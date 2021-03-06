@@ -1,16 +1,24 @@
 body {
 		background-color: #DDDDDD;
-		font-family: Arial, Helvetica, Times New Roman, sans-serif;
-		color: #444444;
-	 }
+		font-family: "Arial", "Courier New","Times New Roman", "Serif", sans-serif;
+		
+	}
+	 
+.assignment {
+				display:flex;
+				padding:10px;
+				margin: 10px;
+				background:#999999;
+				
+			}
+			
+.assignment 190images {	
+						padding:10px;
+					
+			}
 	
 h1 {
 	color: #003366;
 	text-align: center;
-   }
-	
-h2 {
-	color: #003366;
-	text-align: center;
-   }
+	}
 	
