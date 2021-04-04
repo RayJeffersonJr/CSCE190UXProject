@@ -5,22 +5,31 @@ body {
 	}
 	 
 .assignment {
-				display: flex;
+				width: 20%
 				padding: 10px;
 				margin: 10px;
 				background:#999999;
-				border-radius: 27px;
+				padding:20px 10px;
+				border-radius: 7px;
 	
 				
 			}
 			
-.assignment 190images {	
+.displayassignments {	
+											
+						display:flex;
+						flex-wrap:nowrap;
+				
 						
 							
 }
 
 .assignment 190images	{
-								border: 5px solid #00FFFF
+							width:150px;
+							margin:10px;
+							border: 5px solid #00FFFF;
+							display:block;
+							
 							
 }
 
@@ -33,6 +42,12 @@ h1:hover	{
 				color: #660000;
 			
 }
+
+h2: {
+		text-align: center;
+	
+}
+
 	
 a {
 			text-decoration: none;
