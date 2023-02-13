@@ -1,2 +1,2 @@
 # RayJeffersonJr.github.io
-This is my Repository for academic and professional work projects I have worked on in the past, the present and the future.
+This is the webpage project for the CSCE 190 course "Computing in The Modern World" I was enrolled in Spring 2021..
